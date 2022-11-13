@@ -1,0 +1,16 @@
+127.0.0.1 - - [13/Nov/2022:22:02:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:02:32 +0530] "GET /TourAndTravels/ HTTP/1.1" 200 5562
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:02:33 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:02:59 +0530] "GET /TourAndTravels/Pages/Login.jsp HTTP/1.1" 200 2582
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:10 +0530] "POST /TourAndTravels/login HTTP/1.1" 500 3360
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:20 +0530] "GET /TourAndTravels/Pages/Login.jsp HTTP/1.1" 200 2582
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:32 +0530] "POST /TourAndTravels/login HTTP/1.1" 404 3637
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:44 +0530] "GET /TourAndTravels/Pages/Aboutus.jsp HTTP/1.1" 200 3637
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:45 +0530] "GET /TourAndTravels/Pages/Enroll.jsp HTTP/1.1" 200 8597
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:46 +0530] "GET /TourAndTravels/Pages/Login.jsp HTTP/1.1" 200 2582
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:49 +0530] "GET /TourAndTravels/Pages/Insurance.jsp HTTP/1.1" 200 4753
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:03:52 +0530] "GET /TourAndTravels/Pages/Guide/DistanceCalculator.jsp HTTP/1.1" 200 302634
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:22:04:14 +0530] "POST /TourAndTravels/Pages/Guide/DistanceCalculator.jsp HTTP/1.1" 200 302634
+127.0.0.1 - - [13/Nov/2022:23:30:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:23:30:57 +0530] "GET /TourAndTravels/ HTTP/1.1" 200 5562
+0:0:0:0:0:0:0:1 - - [13/Nov/2022:23:30:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
